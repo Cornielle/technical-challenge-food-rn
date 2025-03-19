@@ -1,4 +1,6 @@
 
+# React Native Food Catalog Challenge
+
 Instructions:
 
 - First you need to install metro properly:
